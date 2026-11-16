@@ -81,3 +81,13 @@ https://fontawesome.com/
 ### Node.js
 OpenJS Foundation and contributors  
 https://nodejs.org/
+
+
+### CSS Flexbox
+
+Source: MDN Web Docs by Mozilla
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Flexible_box_layout
+
+I used CSS Flexbox to organize the page layout and keep
+the footer at the bottom of the browser window.
+
