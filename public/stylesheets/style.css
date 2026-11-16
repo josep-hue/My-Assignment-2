@@ -6,3 +6,24 @@ body {
 a {
   color: #00B7FF;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+main {
+    padding: 40px 20px;
+}
+
+/* Footer appearance */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #212529;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
